@@ -3,4 +3,5 @@
 module.exports = core;
 
 function core() {
+
 }
